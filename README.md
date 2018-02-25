@@ -1,7 +1,7 @@
-####　CSDN地址：http://blog.csdn.net/qq_31673689/article/details/79370412
+#### CSDN地址：http://blog.csdn.net/qq_31673689/article/details/79370412
 
 #### 一、环境搭建
-######１．系统环境
+###### １．系统环境
 
 ```
 Ubuntu 17.04
