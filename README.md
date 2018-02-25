@@ -1,5 +1,3 @@
-# face_collection
-python的face_recognition人脸识别库的使用
 ####　CSDN地址：http://blog.csdn.net/qq_31673689/article/details/79370412
 
 #### 一、环境搭建
